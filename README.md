@@ -13,7 +13,6 @@
 - 🧩 Looking to improve **backend logic & API integration**
 - 💬 Talk to me about **HTML, CSS, JavaScript, React & GSAP**
 - 📩 Reach me at: **samruddhisable2022@gmail.com**
-- know about my experience: https://www.canva.com/design/DAGwoOmwrko/Pni9D9B0iQBMdQrR9pJfTw/edit
 
 
 ⚙️ **Tech I Use**
